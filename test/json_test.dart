@@ -1,4 +1,4 @@
-import 'package:boring_flutter_show_1/json_parsing.dart';
+import 'package:boring_flutter_show_2/json_parsing.dart';
 import 'package:test/test.dart';
 
 void main() {
